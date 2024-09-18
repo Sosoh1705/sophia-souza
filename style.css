@@ -1,0 +1,11 @@
+:root{
+    --cor-principal: white (220, 220, 241);
+    --cor-secundario: pink (173, 173, 181);
+    --botao-azul:blue (89, 89, 241);
+    --cor-de-fundo: black (236, 113,133);
+    --fonte-principal: 'Inter';
+    --botao-azul-efeito: purple;
+}
+body{
+    background-color:var(--cor-fundo) ;
+}
